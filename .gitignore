@@ -1,0 +1,7 @@
+data/
+logs/
+cache/
+demo_draft.ipynb
+download_gsv.ipynb
+download_gsv.py
+.DS_Store
